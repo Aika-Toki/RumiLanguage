@@ -4,7 +4,7 @@
 <BR>
 <BR>
 目次↓↓↓<BR>
-[文法](/GRAMMAR.md)
-[音素](/PHONEME.md)
-[単語](/VOCABULARY.md)
-[数詞](/NUMERAL.md.md)
+[文法](/GRAMMAR.md)<BR>
+[音素](/PHONEME.md)<BR>
+[単語](/VOCABULARY.md)<BR>
+[数詞](/NUMERAL.md.md)<BR>
