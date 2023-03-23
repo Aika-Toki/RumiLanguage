@@ -216,5 +216,11 @@
 	</TR>
 </TABLE>
 
- IPAわからん  lj   nj <BR>
-pj ǀ  t͡s t͡ɕ ǃ s͡h<BR>
+その他
+<TABLE border>
+	<TR>
+		<TD>[ɕ]?それとも[s͡h]?</TD>
+		<TD>ǀ</TD>
+		<TD>ǃ</TD>
+	</TR>
+</TABLE>
