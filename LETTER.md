@@ -264,177 +264,177 @@ ___
 	<TR>
 		<TD>Б</TD>
 		<TD><IMG src="./Asetts/b.png"></TD>
-		<TD>b</TD>
+		<TD></TD>
 	</TR>
 	<TR>
 		<TD>В</TD>
-		<TD>в</TD>
-		<TD>v</TD>
+		<TD><IMG src="./Asetts/v.png"></TD>
+		<TD></TD>
 	</TR>
 	<TR>
 		<TD>Г</TD>
-		<TD>г</TD>
-		<TD>g</TD>
+		<TD><IMG src="./Asetts/g.png"></TD>
+		<TD></TD>
 	</TR>
 	<TR>
 		<TD>Ӷ</TD>
-		<TD>ӷ</TD>
-		<TD>ʙ</TD>
+		<TD><IMG src="./Asetts/vb.png"></TD>
+		<TD></TD>
 	</TR>
 	<TR>
 		<TD>Д</TD>
-		<TD>д</TD>
-		<TD>d</TD>
+		<TD><IMG src="./Asetts/d.png"></TD>
+		<TD></TD>
 	</TR>
 	<TR>
 		<TD>Е</TD>
-		<TD>е</TD>
-		<TD>je</TD>
+		<TD><IMG src="./Asetts/je.png"></TD>
+		<TD></TD>
 	</TR>
 	<TR>
 		<TD>Ё</TD>
-		<TD>ё</TD>
-		<TD>jo</TD>
+		<TD><IMG src="./Asetts/jo.png"></TD>
+		<TD></TD>
 	</TR>
 	<TR>
 		<TD>Ж</TD>
-		<TD>ж</TD>
-		<TD>ʒ</TD>
+		<TD><IMG src="./Asetts/zj.png"></TD>
+		<TD></TD>
 	</TR>
 	<TR>
 		<TD>З</TD>
-		<TD>з</TD>
-		<TD>z</TD>
+		<TD><IMG src="./Asetts/z.png"></TD>
+		<TD></TD>
 	</TR>
 	<TR>
 		<TD>И</TD>
-		<TD>и</TD>
-		<TD>i</TD>
+		<TD><IMG src="./Asetts/i.png"></TD>
+		<TD></TD>
 	</TR>
 	<TR>
 		<TD>Й</TD>
-		<TD>й</TD>
-		<TD>j</TD>
+		<TD><IMG src="./Asetts/j.png"></TD>
+		<TD></TD>
 	</TR>
 	<TR>
 		<TD>Ї</TD>
-		<TD>ї</TD>
-		<TD>ji</TD>
+		<TD><IMG src="./Asetts/ji.png"></TD>
+		<TD></TD>
 	</TR>
 	<TR>
 		<TD>К</TD>
-		<TD>к</TD>
-		<TD>k</TD>
+		<TD><IMG src="./Asetts/k.png"></TD>
+		<TD></TD>
 	</TR>
 	<TR>
 		<TD>Ҝ</TD>
-		<TD>ҝ</TD>
-		<TD>kʰ</TD>
+		<TD><IMG src="./Asetts/kh.png"></TD>
+		<TD></TD>
 	</TR>
 	<TR>
 		<TD>Қ</TD>
-		<TD>қ</TD>
-		<TD>ǃ</TD>
+		<TD><IMG src="./Asetts/!.png"></TD>
+		<TD></TD>
 	</TR>
 	<TR>
 		<TD>Л</TD>
-		<TD>л</TD>
-		<TD>l</TD>
+		<TD><IMG src="./Asetts/l.png"></TD>
+		<TD></TD>
 	</TR>
 	<TR>
 		<TD>М</TD>
-		<TD>м</TD>
-		<TD>m</TD>
+		<TD><IMG src="./Asetts/m.png"></TD>
+		<TD></TD>
 	</TR>
 	<TR>
 		<TD>Н</TD>
-		<TD>н</TD>
-		<TD>n</TD>
+		<TD><IMG src="./Asetts/n.png"></TD>
+		<TD></TD>
 	</TR>
 	<TR>
 		<TD>О</TD>
-		<TD>о</TD>
-		<TD>o</TD>
+		<TD><IMG src="./Asetts/o.png"></TD>
+		<TD></TD>
 	</TR>
 	<TR>
 		<TD>Ӧ</TD>
-		<TD>ӧ</TD>
-		<TD>œ</TD>
+		<TD><IMG src="./Asetts/oe.png"></TD>
+		<TD></TD>
 	</TR>
 	<TR>
 		<TD>П</TD>
-		<TD>п</TD>
-		<TD>p</TD>
+		<TD><IMG src="./Asetts/p.png"></TD>
+		<TD></TD>
 	</TR>
 	<TR>
 		<TD>Р</TD>
-		<TD>р</TD>
-		<TD>r</TD>
+		<TD><IMG src="./Asetts/r.png"></TD>
+		<TD></TD>
 	</TR>
 	<TR>
 		<TD>С</TD>
-		<TD>с</TD>
-		<TD>s</TD>
+		<TD><IMG src="./Asetts/s.png"></TD>
+		<TD></TD>
 	</TR>
 	<TR>
 		<TD>Т</TD>
-		<TD>т</TD>
-		<TD>t</TD>
+		<TD><IMG src="./Asetts/t.png"></TD>
+		<TD></TD>
 	</TR>
 	<TR>
 		<TD>У</TD>
-		<TD>у</TD>
-		<TD>u</TD>
+		<TD><IMG src="./Asetts/u.png"></TD>
+		<TD></TD>
 	</TR>
 	<TR>
 		<TD>Ӱ</TD>
-		<TD>ӱ</TD>
-		<TD>ʋ</TD>
+		<TD><IMG src="./Asetts/w.png"></TD>
+		<TD></TD>
 	</TR>
 	<TR>
 		<TD>Ф</TD>
-		<TD>ф</TD>
-		<TD>f</TD>
+		<TD><IMG src="./Asetts/f.png"></TD>
+		<TD></TD>
 	</TR>
 	<TR>
 		<TD>Х</TD>
-		<TD>х</TD>
-		<TD>h</TD>
+		<TD><IMG src="./Asetts/h.png"></TD>
+		<TD></TD>
 	</TR>
 	<TR>
 		<TD>Ц</TD>
-		<TD>ц</TD>
-		<TD>t͡s</TD>
+		<TD><IMG src="./Asetts/ts.png"></TD>
+		<TD></TD>
 	</TR>
 	<TR>
 		<TD>Ч</TD>
-		<TD>ч</TD>
-		<TD>t͡ɕ</TD>
+		<TD><IMG src="./Asetts/th.png"></TD>
+		<TD></TD>
 	</TR>
 	<TR>
 		<TD>Ӵ</TD>
-		<TD>ӵ</TD>
-		<TD>ǀ</TD>
+		<TD><IMG src="./Asetts/ch.png"></TD>
+		<TD></TD>
 	</TR>
 	<TR>
 		<TD>Ш</TD>
-		<TD>ш</TD>
-		<TD>[ɕ]?それとも[s͡h]?</TD>
+		<TD><IMG src="./Asetts/sh.png"></TD>
+		<TD></TD>
 	</TR>
 	<TR>
 		<TD>Э</TD>
-		<TD>э</TD>
-		<TD>e</TD>
+		<TD><IMG src="./Asetts/e.png"></TD>
+		<TD></TD>
 	</TR>
 	<TR>
 		<TD>Ю</TD>
-		<TD>ю</TD>
-		<TD>ju</TD>
+		<TD><IMG src="./Asetts/ju.png"></TD>
+		<TD></TD>
 	</TR>
 	<TR>
 		<TD>Я</TD>
-		<TD>я</TD>
-		<TD>ja</TD>
+		<TD><IMG src="./Asetts/ja.png"></TD>
+		<TD></TD>
 	</TR>
 </TABLE>
 
