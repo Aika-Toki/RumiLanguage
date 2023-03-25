@@ -25,7 +25,7 @@ ___
 		<TD>おやすみ～/さよなら～</TD>
 	</TR>
 </TABLE>
-
+<BR>
 人称<BR>
 <TABLE border>
 	<TR>
@@ -49,7 +49,7 @@ ___
 		<TD>ЁИ</TD>
 	</TR>
 </TABLE>
-
+<BR>
 国<BR>
 <TABLE border>
 	<TR>
@@ -62,10 +62,10 @@ ___
 	</TR>
 	<TR>
 		<TD>САЮ-З</TD>
-		<TD>文字</TD>
+		<TD>連邦/連合</TD>
 	</TR>
 </TABLE>
-
+<BR>
 その他の単語<BR>
 <TABLE border>
 	<TR>
@@ -97,7 +97,7 @@ ___
 		<TD>非常に/とても</TD>
 	</TR>
 </TABLE>
-
+<BR>
 色<BR>
 <TABLE border>
 	<TR>
@@ -109,4 +109,3 @@ ___
 		<TD></TD>
 	</TR>
 </TABLE>
-
