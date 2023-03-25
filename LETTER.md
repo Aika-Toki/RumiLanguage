@@ -194,8 +194,55 @@ ___
 	</TR>
 </TABLE>
 
-今はもう使わない文字(廃字)<BR>
-| Ы ы | Щ щ | Љ љ | Њ њ | Ҧ ҧ | Ъ ъ | Ӫ ӫ | Ҫ ҫ | Ь ь | Ҋ ҋ |
+<DETAILS>
+	<SUMMARY>今はもう使わない文字(廃字)<SUMMARY>
+	<TABLE BORDER>
+		<TR>
+			<TH>大文字</TH>
+			<TH>小文字</TH>
+		</TR>
+		<TR>
+			<TD>Ы</TD>
+			<TD>ы</TD>
+		</TR>
+		<TR>
+			<TD>Щ</TD>
+			<TD>щ</TD>
+		</TR>
+		<TR>
+			<TD>Љ</TD>
+			<TD>љ</TD>
+		</TR>
+		<TR>
+			<TD>Њ</TD>
+			<TD>њ</TD>
+		</TR>
+		<TR>
+			<TD>Ҧ</TD>
+			<TD>ҧ</TD>
+		</TR>
+		<TR>
+			<TD>Ъ</TD>
+			<TD>ъ</TD>
+		</TR>
+		<TR>
+			<TD>Ӫ</TD>
+			<TD>ӫ</TD>
+		</TR>
+		<TR>
+			<TD>Ҫ</TD>
+			<TD>ҫ</TD>
+		</TR>
+		<TR>
+			<TD>Ь</TD>
+			<TD>ь</TD>
+		</TR>
+		<TR>
+			<TD>Ҋ</TD>
+			<TD>ҋ</TD>
+		</TR>
+	</TABLE>
+</DETAILS>
 
 ### るみ文字
 子音<BR>
