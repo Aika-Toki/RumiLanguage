@@ -195,7 +195,7 @@ ___
 </TABLE>
 
 <DETAILS>
-	<SUMMARY>今はもう使わない文字(廃字)<SUMMARY>
+	<SUMMARY>今はもう使わない文字(廃字)</SUMMARY>
 	<TABLE BORDER>
 		<TR>
 			<TH>大文字</TH>
